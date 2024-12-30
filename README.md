@@ -1,2 +1,2 @@
-# Kh-a-h-c-Python
+# Khoa-hoc-Python
 Thực hành github
